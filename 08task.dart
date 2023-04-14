@@ -8,4 +8,11 @@
 
 // Find the expression value assign to 'answer'. a*b/c
 
-void main() {}
+void main() {
+  //write your code here
+  int a = 3;
+  int b = 4;
+  int c = 2;
+  double answer = a * b / c;
+  print(answer);
+}
